@@ -146,7 +146,7 @@ DISK=Ổ đĩa
 
 [Dialog]
 LIST_ID=ID
-LIST_CURRENT=Danh sách hiệt tại
+LIST_CURRENT=Danh sách hiện tại
 LIST_WORST=Danh sách xấu
 LIST_THRESHOLD=Danh sách tới ngưỡng
 LIST_RAW_VALUES=Danh sách giá trị nguyên
